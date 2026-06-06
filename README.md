@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <a href="https://galang-arrauf.com"><img src="https://img.shields.io/badge/Portfolio-galang--arrauf.com-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portofolang.vercel.app"><img src="https://img.shields.io/badge/Portfolio-portofolang.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/galang-pramudito"><img src="https://img.shields.io/badge/LinkedIn-galang--pramudito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/galngg_"><img src="https://img.shields.io/badge/Instagram-galngg__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:galangarrauf22@gmail.com"><img src="https://img.shields.io/badge/Gmail-galangarrauf22-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
