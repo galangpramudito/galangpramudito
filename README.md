@@ -21,10 +21,10 @@
 
 ### 👨‍💻 about me
 
-- 🎓 studying **Information Technology** at **PENS** (Politeknik Elektronika Negeri Surabaya)
-- 💼 juggling university, shift work, and building scalable apps — simultaneously
-- 💻 main stack: **Laravel · Flutter · Next.js**
-- 🤖 tinkering with **Local LLMs (Ollama, DeepSeek)** for smart bots & AI automation
+- 🌍 Based in Sidoarjo, Indonesia — IT student at **PENS**
+- 🔧 Full-stack developer with focus on **backend, API design, and real-time systems**
+- 🤖 Exploring **AI-powered automation** and bot development
+- 📬 Open to freelance and collaboration opportunities
 
 ---
 
