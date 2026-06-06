@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/galangg22"><img src="https://github-readme-stats.vercel.app/api?username=galangg22&show_icons=true&theme=tokyonight&hide_border=true" alt="Galang's GitHub stats" />click here</a>
+  <a href="https://github.com/galangg22">
+    <img src="https://github-readme-stats.vercel.app/api?username=galangg22&show_icons=true&theme=tokyonight&hide_border=true" alt="Galang's GitHub stats" />
+  </a>
 </p>
-
 ---
 
 ### 🛠 Tech Stack
