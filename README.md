@@ -1,44 +1,75 @@
-<h1 align="center">✨ Welcome to my GitHub workspace! ✨</h1>
+<div align="center">
 
-<h3 align="center">I'm Galang Arrauf Pramudito, an IT Student & Full-Stack Developer 🇮🇩</h3>
+# hey, i'm galang 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F711A6&center=true&vCenter=true&width=500&lines=Information+Technology+Student+at+PENS;Full-Stack+Web+%26+Mobile+Dev;Local+AI+%26+Bot+Automation+Builder" alt="Typing SVG" />
-</p>
+**backend dev · coffee enjoyer · sidoarjo, indonesia 🇮🇩**
 
----
+[![Portfolio](https://img.shields.io/badge/galang--arrauf.com-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://galang-arrauf.com)
+[![GitHub](https://img.shields.io/badge/GitHub-galang--arrauf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galang-arrauf)
 
-### 👨‍💻 About Me
-
-- 🎓 Currently studying **Information Technology** at Politeknik Elektronika Negeri Surabaya (PENS).
-- 💼 Balancing my time between university studies, shift work, and building scalable applications.
-- 💻 My main focuses are **Laravel, the MERN stack, and Flutter**.
-- 🤖 Tinkering heavily with **Local LLMs (Ollama, DeepSeek)** to build smart messaging bots and AI automation tools.
-- 🎮 When I'm away from the keyboard, I'm usually grinding ranks in **Valorant**, causing chaos in **GTA V**, or touring across East Java on my motorcycle. 
+</div>
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ tech stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,mongodb,flutter,mysql,git,github,vscode,docker&perline=6" alt="My Skills" />
-  </a>
-</p>
+**backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+**mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**infra & data**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-7C3AED?style=for-the-badge&logo=flydotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 currently building
 
-<p align="center">
-  <a href="https://github.com/galangg22">
-    <img src="https://github-readme-stats.vercel.app/api?username=galangg22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Galang's GitHub stats" width="48%" />
-  </a>
-  <a href="https://github.com/galangg22">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=galangg22&theme=radical&hide_border=true&background=0D1117" alt="Galang's Streak" width="48%" />
-  </a>
-</p>
+| project | desc | stack |
+|---|---|---|
+| **[Portofolio](https://portofolang.vercel.app)** | personal portfolio w/ full CMS | Next.js · Supabase · Tailwind v4 |
+| **Mangansage** | real-time chat app, iMessage-inspired | Flutter · Laravel · Reverb WS |
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=galangg22&label=Profile%20Visitors&color=F711A6&style=for-the-badge" alt="Profile Views" />
-</p>
+---
+
+### 📊 stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galang-arrauf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galang-arrauf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)
+
+![Streak](https://streak-stats.demolab.com?user=galang-arrauf&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=8b5cf6&currStreakLabel=6366f1)
+
+</div>
+
+---
+
+### ☕ fueled by
+
+![Coffee](https://img.shields.io/badge/Coffee-black?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+![Music](https://img.shields.io/badge/Music-always_on-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+---
+
+<div align="center">
+<sub>make it work · make it right · make it fast</sub>
+</div>
