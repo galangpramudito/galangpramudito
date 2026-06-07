@@ -51,15 +51,15 @@
 ### 📊 github analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=galangg22&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=8b5cf6&currStreakLabel=6366f1" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=galangpramudito&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=8b5cf6&currStreakLabel=6366f1" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=galangg22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=8b5cf6" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=galangpramudito&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=8b5cf6" width="96%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=galangg22&label=Profile+Visitors&color=6366f1&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=galangpramudito&label=Profile+Visitors&color=6366f1&style=for-the-badge" />
 </p>
 
 ---
