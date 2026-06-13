@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=galang%20arrauf&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=galang%20pramudito&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 <h3>IT Student · Full-Stack Dev · Bot Builder 🇮🇩</h3>
 
